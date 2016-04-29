@@ -5,4 +5,7 @@
 66666666666
 
 creating a new branch is quick and simple
-add merage  "fix bug 101"
+add merage and will git shash 
+
+it is ok
+
